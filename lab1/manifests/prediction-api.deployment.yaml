@@ -23,8 +23,8 @@ spec:
           protocol: TCP
         env:
         - name: PROJECT_ID
-          value: ada2023  # use your project id
+          value: fleet-blend-377309  # use your project id
         - name: MODEL_REPO
-          value: adamodels # use your GCP bucket id
+          value: ada-bucket-kvh-1 # use your GCP bucket id
         - name: MODEL_NAME
           value: model.h5
