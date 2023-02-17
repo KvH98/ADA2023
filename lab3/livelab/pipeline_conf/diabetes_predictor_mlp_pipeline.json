@@ -186,6 +186,6 @@
     "sdkVersion": "kfp-1.8.14"
   },
   "runtimeConfig": {
-    "gcsOutputDirectory": "gs://adatemp"
+    "gcsOutputDirectory": "gs://adatemp-ada2023"
   }
 }

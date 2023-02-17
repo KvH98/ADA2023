@@ -4,7 +4,7 @@
        "name": "gcr.io/cloud-builders/gsutil",
        "args": [
            "cp",
-		   "gs://adamodels/model.h5",
+		   "gs://adamodels-ada2023/model.h5",
            "./lab3/livelab/prediction-ui-embedded-gcs"
         ]
     },
